@@ -18,3 +18,4 @@ To be updated.
 
 
 The training data is large in size and can be downloaded through the following UIUC Box link:
+https://uofi.app.box.com/s/g609d6x43cvi6ylr7zhj7vazd9tdfix2
